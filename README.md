@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @bosskalash
-- 👀 I’m interested in crypto, NFT, Forex
-- 🌱 I’m currently learning NFT and how to day trade
-- 💞️ I’m looking to collaborate on we shall see
-- 📫 How to reach me....hmmmmmmmmmm
+- 👀 I’m interested in Crypto and Ai
 
 <!---
 bosskalash/bosskalash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
